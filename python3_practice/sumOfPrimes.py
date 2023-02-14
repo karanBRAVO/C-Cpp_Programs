@@ -1,3 +1,5 @@
+# pending -> optimal solution
+
 testCases = int(input("~ Enter test cases: "))
 
 
